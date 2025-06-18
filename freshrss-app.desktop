@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=FreshRSS App
+Comment=A simple client for FreshRSS
+Exec=freshrss
+Icon=web-browser
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;News;
+StartupWMClass=org.example.freshrssapp
